@@ -1,0 +1,65 @@
+# main links
+main:
+  - title: "About"
+    url: /docs/about/
+  - title: "Financial Engineering Projects"
+    url: /fe/financial-engineering/
+  - title: "Machine Learning Projects"
+    url: /ml/machine-learning/
+
+  # - title: "Categories"
+  #   url: /categories/
+  # - title: "Tags"
+  #   url: /tags/
+  # - title: "Pages"
+  #   url: /page-archive/
+  # - title: "Collections"
+  #   url: /collection-archive/
+  # - title: "External Link"
+  #   url: https://google.com
+  # - title: "Portfolio"
+  #   url: /_pages/portfolio-archive.md
+
+# example navigation
+
+# ml:
+#   - title: Getting Started
+#       children:
+#         - title: "Machine Learning Projects"
+#           url: /ml/machine-learning/
+#         - title: "Checking How Things Work"
+#           url: /ml/checking-how-things-work/
+#
+#
+# example navigation
+
+docs:
+  - title: Getting Started
+    children:
+      - title: "About"
+        url: /docs/about/
+      - title: "Checking how things work"
+        url: /docs/checking-how-things-work/
+
+ml:
+  - title: Project List
+    children:
+      - title: "Machine Learning Projects"
+        url: /ml/machine-learning/
+      - title: "Project Number 1"
+        url: /ml/ml-project-1/
+      - title: "Project Number 2"
+        url: /ml/ml-project-2/
+fe:
+  - title: Project List
+    children:
+      - title: "Financial Engineering Projects"
+        url: /fe/financial-engineering/
+      - title: "Pricing Exotic ADR Options"
+        url: /fe/fe-project-1/
+      - title: "The Generalization of XVA to SV framework"
+        url: /fe/fe-project-2/
+      - title: "Longevity Risk Derivatives"
+        url: /fe/fe-project-3/
+      - title: "The Longevity Risk"
+        url: /fe/fe-project-4/
