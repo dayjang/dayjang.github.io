@@ -1,2 +1,2 @@
-# dk2791.github.io
+# dayjang.github.io
 Blog
