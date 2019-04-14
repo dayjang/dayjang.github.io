@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Blog: The Only Good DA-ie YOUNG"
+title                    : "Blog: Only The Good DA-ie YOUNG"
 title_separator          : "-"
 name                     : "DA-YOUNG JANG or DAYOUNG JANG"
 description              : "Data Science Portfolio"
@@ -126,7 +126,7 @@ author:
     #   url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/dayjang"
+      url: "https://github.com/dayjang/"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
@@ -161,8 +161,8 @@ footer:
 include:
   - .htaccess
   - _pages
-  - _ml
-  - _fe
+  - _ml1
+  - _ml2
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
