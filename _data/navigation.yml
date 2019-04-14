@@ -3,9 +3,9 @@ main:
   - title: "About"
     url: /docs/about/
   - title: "Machine Learning 101"
-    url: /ml1/
+    url: /ml1/machine-learning/
   - title: "Machine Learning Projects"
-    url: /ml2/
+    url: /ml2/ml-project-1/
 
   # - title: "Categories"
   #   url: /categories/
