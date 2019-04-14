@@ -44,7 +44,7 @@ docs:
 ml1:
   - title: Machine Learning 101
     children:
-      - title: [ML101] Bias-Variance Trade-off
+      - title: "[ML101] Bias-Variance Trade-off"
         url: /ml1/machine-learning/
       # - title: "Project Number 1"
       #   url: /ml/ml-project-1/
@@ -53,8 +53,8 @@ ml1:
 ml2:
   - title: Machine Learning Projects
     children:
-      - title: "Financial Engineering Projects"
-        url: /ml2/financial-engineering/
+      - title: "ML Project-1"
+        url: /ml2/ml-project-1/
       # - title: "Pricing Exotic ADR Options"
       #   url: /fe/fe-project-1/
       # - title: "The Generalization of XVA to SV framework"

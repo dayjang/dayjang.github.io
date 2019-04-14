@@ -1,6 +1,6 @@
 ---
-title: "Machine Learning Projects"
-permalink: /ml/machine-learning/
+title: "ML Project-1"
+permalink: /ml2/ml-project-1/
 header:
   image: "/images/image4.jpeg"
 sidebar:

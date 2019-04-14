@@ -1,6 +1,6 @@
 ---
-title: "Machine Learning Projects"
-permalink: /ml/machine-learning/
+title: "[ML101] Bias-Variance Trade-off"
+permalink: /ml1/machine-learning/
 header:
   image: "/images/image4.jpeg"
 sidebar:
