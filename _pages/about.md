@@ -8,4 +8,4 @@ sidebar:
 ---
 A blog of DA-YOUNG
 
-![alt]({{ site.url}}{{ site.baseurl }}/images/dayoungjang.jpeg)
+![alt]({{ site.url}}{{ site.baseurl }}/images/dayoungjang.jpg)
