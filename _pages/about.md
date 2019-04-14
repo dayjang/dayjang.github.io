@@ -2,7 +2,7 @@
 title: "About"
 permalink: /docs/about/
 header:
-  image: "/images/dy-logo2.png"
+  image: "/images/lisa-vanthournout-573601-unsplash.jpg"
 sidebar:
   nav: "docs"
 ---
