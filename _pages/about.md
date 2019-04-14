@@ -2,7 +2,7 @@
 title: "About"
 permalink: /docs/about/
 header:
-  image: "/images/logo_only-the-good-die-young.jpg"
+  image: "/images/logo_DY.png"
 sidebar:
   nav: "docs"
 ---
