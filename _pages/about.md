@@ -2,10 +2,10 @@
 title: "About"
 permalink: /docs/about/
 header:
-  image: "/images/logo_DY.png"
+  image: "/images/dayoungjang.png"
 sidebar:
   nav: "docs"
 ---
-A blog of Da-Young
+A blog of DA-YOUNG
 
 ![alt]({{ site.url}}{{ site.baseurl }}/images/about.jpg)
