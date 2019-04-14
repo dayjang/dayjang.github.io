@@ -2,7 +2,7 @@
 title: "About"
 permalink: /docs/about/
 header:
-  image: "/images/dayoungjang.png"
+  image: "/images/dayoungjang.jpeg"
 sidebar:
   nav: "docs"
 ---
