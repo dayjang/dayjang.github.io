@@ -2,7 +2,7 @@
 title: "About"
 permalink: /docs/about/
 header:
-  image: "/images/logo_DY.png"
+  image: "/images/dy-logo2.png"
 sidebar:
   nav: "docs"
 ---
