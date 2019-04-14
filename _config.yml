@@ -16,15 +16,15 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Only the Good DA-ie Young"
+title                    : "Blog: The Only Good DA-ie YOUNG"
 title_separator          : "-"
-name                     : "Da-Young Jang"
-description              : "Data Science Blog"
-url                      : #"https://dayjang.github.io"
+name                     : "DA-YOUNG JANG or DAYOUNG JANG"
+description              : "Data Science Portfolio"
+url                      : #"https://dk2791.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/images/logo.jpeg"
+logo                     : "/images/logo_only-the-good-die-young.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -106,24 +106,30 @@ analytics:
 
 # Site Author
 author:
-  name             : "Da-Young Jang"
+  name             : "Da-Young"
   avatar           : "/images/bio-photo.jpg"
-  bio              : "Master in Operations Research"
+  bio              : "MS. in Operations Research graduate"
   location         : "New York, NY"
-  # email            : dj2490@columbia.edu
+  # email            : dk2791@columbia.edu
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:dj2490@columbia.edu
+      url: mailto:dj2490@columbia.edu
+    # - label: "Wordpress"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://donggeunkim.com"
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
-    #   # url: "https://twitter.com/"
+    #   url: "https://twitter.com/"
     # - label: "Facebook"
     #   icon: "fab fa-fw fa-facebook-square"
-    #   # url: "https://facebook.com/"
+    #   url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/dayjang"
+      url: "https://github.com/dk2791/dayjang"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/dayoungjang/"
@@ -300,16 +306,16 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _ml
+  # _ml1
   - scope:
-      path: "_ml"
+      path: "_ml1"
       type: pages
     values:
       layout: single
       author_profile: false
-  # _fe
+  # _ml2
   - scope:
-      path: "_fe"
+      path: "_ml2"
       type: pages
     values:
       layout: single
