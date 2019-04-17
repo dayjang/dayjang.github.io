@@ -28,6 +28,6 @@ Underfitting
 
 
 <p align="center">
-  <img src="⁨images⁩/ml1/bias_varinace_image1.jpg" width="350">
+  <img src="⁨/images⁩/ml1/bias_varinace_image1.jpg" width="350">
 
 </p>
