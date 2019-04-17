@@ -46,7 +46,7 @@ ml1:
     children:
       - title: "[ML101] Bias-Variance Trade-off"
         url: /ml1/machine-learning/
-      - title: "Project Number 1"
+      - title: "[ML101] Linear Regression"
         url: /ml1/machine-learning2/
       # - title: "Project Number 2"
       #   url: /ml/ml-project-2/
