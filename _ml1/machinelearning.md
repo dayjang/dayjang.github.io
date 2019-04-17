@@ -25,3 +25,9 @@ Overfitting
 = error from erroneous assumptions in the learning algorithm. <br>
 <span style="color:red">High</span> bias -> cause an algorithm to <span style="color:red">miss the relevant relations</span> between features and target outputs <br>
 Underfitting
+
+
+<p align="center">
+  <img src="⁨images⁩/ml1/bias_varinace_image1.png⁩" width="350" title="hover text">
+  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+</p>
