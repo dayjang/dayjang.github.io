@@ -2,7 +2,7 @@
 title: "[ML101] Bias-Variance Tradeoff"
 permalink: /ml1/machine-learning/
 header:
-  image: "/images/image4.jpeg"
+  image: "/images⁩/ml1/bias_varinace_image1.jpg"
 sidebar:
   nav: "ml1"
 ---
@@ -25,9 +25,3 @@ Overfitting
 = error from erroneous assumptions in the learning algorithm. <br>
 <span style="color:red">High</span> bias -> cause an algorithm to <span style="color:red">miss the relevant relations</span> between features and target outputs <br>
 Underfitting
-
-
-<p align="center">
-  <img src="⁨/images⁩/ml1/bias_varinace_image1.jpg" width="350">
-
-</p>
