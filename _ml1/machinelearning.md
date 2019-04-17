@@ -2,7 +2,7 @@
 title: "[ML101] Bias-Variance Tradeoff"
 permalink: /ml1/machine-learning/
 header:
-  image: "/images⁩/ml1/bias_varinace_image1.jpg"
+  image: "/images⁩/ml1/bias_variance_image1.jpg"
 sidebar:
   nav: "ml1"
 ---
