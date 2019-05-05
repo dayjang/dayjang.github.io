@@ -18,8 +18,7 @@ Assumption 2: `Error terms`
 
 > Error terms are uncorrelated across observations, -> for two observations i and j
 
-> <img src="http://www.sciweavers.org/tex2img.php?eq=%24cov%28%7B%5Cepsilon_i%7D%2C%7B%5Cepsilon_j%7D%29%3D0&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="$cov({\epsilon_i},{\epsilon_j})=0" width="117" height="21" />
-
+> <img src="http://www.sciweavers.org/tex2img.php?eq=%24cov%28%7B%5Cepsilon_i%7D%2C%7B%5Cepsilon_j%7D%29%3D0&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="left" border="0" alt="$cov({\epsilon_i},{\epsilon_j})=0" width="117" height="21" />
 
 
 Assumption 3: no perfect multi-collinearity within `independent variables`
