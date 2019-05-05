@@ -7,6 +7,9 @@ sidebar:
   nav: "ml1"
 ---
 ### Linear Regression
+##### What is Linear Regression?
+
+##### Assumptions of Linear Regression?
 
 Assumption 1: Regression is linear in parameters & correctly specified <br>
 Assumption 2: `Error terms`

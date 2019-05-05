@@ -1,6 +1,6 @@
 ---
 title: "[ML101] Linear Regression"
-permalink: /ml1/machine-learning2/
+permalink: /ml1/machine-learning3/
 header:
   image: "/images⁩/image5.jpeg"
 sidebar:
