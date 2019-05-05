@@ -2,7 +2,7 @@
 title: "[ML101] Bias-Variance Tradeoff"
 permalink: /ml1/machine-learning/
 header:
-  image: "/images⁩/bias_variance_image1.jpg"
+  image: 
 sidebar:
   nav: "ml1"
 ---
@@ -28,4 +28,4 @@ Underfitting
 
 
 ![](bias_variance_image1.jpg)
-<img src="bias_variance_image1.jpg"  width="120" height="120">
+<img src="bias_variance_image1.jpg"  width="360" height="120">
