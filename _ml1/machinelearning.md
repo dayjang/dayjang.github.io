@@ -27,5 +27,5 @@ Overfitting
 Underfitting
 
 
-![](/images⁩/bias_variance_image1.jpg)
-<img src="/images⁩/bias_variance_image1.jpg"  width="120" height="120">
+![](bias_variance_image1.jpg)
+<img src="bias_variance_image1.jpg"  width="120" height="120">
