@@ -49,7 +49,9 @@ Underfitting
 
 - Ridge <br>
 = cost function of Ridge Regression: L2 norm  <br> 
-= <img src="http://www.sciweavers.org/tex2img.php?eq=%5Cmin%20_%7Bw%5Cin%20%5Cmathbb%20%7BR%7D%20%5E%7Bp%7D%7D%7B%5Cfrac%20%7B1%7D%7Bn%7D%7D%5C%7C%7B%5Chat%20%7BX%7D%7Dw-%7B%5Chat%20%7BY%7D%7D%5C%7C%5E%7B2%7D%2B%5Clambda%20%5C%7Cw%5C%7C_%7B2%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="left" border="0" alt="\min _{w\in \mathbb {R} ^{p}}{\frac {1}{n}}\|{\hat {X}}w-{\hat {Y}}\|^{2}+\lambda \|w\|_{2}" width="337" height="43" />  <br>
+= 
+
+<img src="http://www.sciweavers.org/tex2img.php?eq=%5Cmin%20_%7Bw%5Cin%20%5Cmathbb%20%7BR%7D%20%5E%7Bp%7D%7D%7B%5Cfrac%20%7B1%7D%7Bn%7D%7D%5C%7C%7B%5Chat%20%7BX%7D%7Dw-%7B%5Chat%20%7BY%7D%7D%5C%7C%5E%7B2%7D%2B%5Clambda%20%5C%7Cw%5C%7C_%7B2%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="left" border="0" alt="\min _{w\in \mathbb {R} ^{p}}{\frac {1}{n}}\|{\hat {X}}w-{\hat {Y}}\|^{2}+\lambda \|w\|_{2}" width="337" height="43" />  <br>
 
 - L1 vs L2 norm  <br>
 = L1 regularization can occasionally produce non-unique solutions.   <br>
